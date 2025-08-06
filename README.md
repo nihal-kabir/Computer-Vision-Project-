@@ -54,19 +54,21 @@ This project implements an efficient Convolutional Neural Network (CNN) to recog
 
 ## References
 
-References
+Mohsin Mia, Md. Mehedi Hasan, Maria Rashid, Md. Hasan Imam Bijoy, “Bengali Handwriting Detection Using Deep Learning Techniques with Model Optimization,” in Proc. IEEE CS BDC SYMPOSIUM 2024, 2024, DOI:10.1109/ICSBDC.2024.
 
-Mohsin Mia, Md. Mehedi Hasan, Maria Rashid, Md. Hasan Imam Bijoy, “Bengali Handwriting Detection Using Deep Learning Techniques with Model Optimization,” in Proc. IEEE CS BDC SYMPOSIUM 2024, 2024, doi: 10.1109/ICSBDC.2024.
-
-Md. Mahedi Hasan, Fahim Habib, Md. Sharzul Mostafa, “Bangla Handwritten Character Recognition Using Deep Learning Approaches and its Explainability with AI,” International Journal For Multidisciplinary Research (IJFMR), 2024, doi: 10.18034/ijfmr.v6i3.22574.
+Md. Mahedi Hasan, Fahim Habib, Md. Sharzul Mostafa, “Bangla Handwritten Character Recognition Using Deep Learning Approaches and its Explainability with AI,” International Journal For Multidisciplinary Research (IJFMR), 2024, DOI:10.18034/ijfmr.v6i3.22574.
 
 Chandrika Saha, Md Mostafijur Rahman, “BanglaNet: Bangla Handwritten Character Recognition using Ensembling of Convolutional Neural Network,” arXiv preprint, 2024, arXiv:2401.08035.
 
-Sufian Abu, Ghosh Anirudha, Naskar Avijit, Sultana Farhana, Sil Jaya, Rahman M.M. Hafizur, “BDNet: Bengali Handwritten Numeral Digit Recognition based on Densely connected Convolutional Neural Networks,” ScienceDirect Journal, 2022, doi: 10.1016/j.jksuci.2020.08.019.
+Sufian Abu, Ghosh Anirudha, Naskar Avijit, Sultana Farhana, Sil Jaya, Rahman M.M. Hafizur, “BDNet: Bengali Handwritten Numeral Digit Recognition based on Densely connected Convolutional Neural Networks,” Journal of King Saud University - Computer and Information Sciences, 2022, DOI:10.1016/j.jksuci.2020.08.019.
 
 Kottakota Asish, P. Sarath Teja, R. Kishan Chander, D. Deva Hema, “NeuroWrite: Predictive Handwritten Digit Classification using Deep Neural Networks,” arXiv preprint, 2023, arXiv:2311.01022.
 
-Maha A. Al-Bayati, “Deep Learning for Handwritten Digit Recognition System: A Convolutional Neural Network Approach,” ASPG Journal, 2024, doi: 10.54216/FPA.170226.
+Maha A. Al-Bayati, “Deep Learning for Handwritten Digit Recognition System: A Convolutional Neural Network Approach,” ASPG Journal, 2024, DOI:10.54216/FPA.170226.
+
+Syed Sajid Ullah, Li Gang, Mudassir Riaz, Ahsan Ashfaq, Salman Khan, Sajawal Khan, “Handwritten Digit Recognition using Ensembling of Convolutional Neural Network,” arXiv preprint, 2024, arXiv:2503.06104.
+
+
 
 Syed Sajid Ullah, Li Gang, Mudassir Riaz, Ahsan Ashfaq, Salman Khan, Sajawal Khan, “Handwritten Digit Recognition using Ensembling of Convolutional Neural Network,” arXiv preprint, 2024, arXiv:2503.06104.
 
